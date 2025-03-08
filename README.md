@@ -2,7 +2,7 @@
 
 ## Description
 
-![Project Image](cat_dog_classification.jpg)
+![Project Image](cat_dog_classification.png)
 
 This project implements an image classification model using transfer learning. A pre-trained deep learning model is fine-tuned to classify images of cats and dogs, significantly improving training efficiency and accuracy.
 
